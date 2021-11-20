@@ -38,9 +38,9 @@ $where);
     </div>
 </div>
 
-<div class="col-auto">
- <a href="<?= base_url('buku'); ?>"><i class="fas fabook fa-3x text-primary"></i></a>
- </div>
+    <div class="col-auto">
+      <a href="<?= base_url('buku'); ?>"><i class="fas fabook fa-3x text-primary"></i></a>
+    </div>
  </div>
  </div>
  </div>
